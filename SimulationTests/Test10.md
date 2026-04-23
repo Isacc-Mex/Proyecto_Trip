@@ -65,4 +65,9 @@ SELECT * FROM vista_resumen_ejecutivo;
 ```
 
 ## Evidencia Esperada
-
+![Test 10 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%2010/Test10.png)
+![Test 10 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%2010/Test10_SELECT%20COUNT.png)
+![Test 10 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%2010/Test10_SELECT%20FROM%20JOIN.png)
+![Test 10 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%2010/Test10_SELECT%20FROM.png)
+![Test 10 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%2010/Test10_SELECT%20GROUP.png)
+![Test 10 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%2010/Test10_VISTA%20RESUMEN%20EJECUTIVO%20.png)
