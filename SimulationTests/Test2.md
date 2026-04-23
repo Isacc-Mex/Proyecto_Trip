@@ -53,4 +53,11 @@ GROUP BY p.tipo, t.estatus;
 ```
 
 ## Evidencia Esperada
+![Test 02 ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%202/Test2.png)
+![Test 02 ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%202/Test2_SELECT%20FROM%20GROUP.png)
+![Test 02 ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%202/Test2_SELECT%20JOIN.png)
+![Test 02 ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%202/Test2_SELECT%20WHERE%20GROUP.png)
+
+
+
 
