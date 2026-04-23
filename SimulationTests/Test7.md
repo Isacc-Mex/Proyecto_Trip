@@ -52,4 +52,9 @@ WHERE id_compra = @ultima_compra;
 ```
 
 ## Evidencia Esperada
-![Descripción de la imagen](test 7/[foto.png](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%207/Test7.png))
+![Test 07 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%207/Test7.png)
+![Test 07 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%207/Test7_CALL.png)
+![Test 07 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%207/Test7_SELECT%20FROM%20JOIN.png)
+![Test 07 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%207/Test7_SELECT%20FROM%20WHERE.png)
+![Test 07 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%207/Test7_SELECT%20FROM.png)
+![Test 07 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%207/Test7_SET.png)
