@@ -9,7 +9,7 @@
 
 ## Criterios de Aprobación
 
-- [ ] Se insertan 2000 nuevos registros en `partidas`
+- [  ] Se insertan 2000 nuevos registros en `partidas`
 - [ ] Las partidas con `estado_final = 'perdió'` tienen exactamente 1 registro en `muerte_partida`
 - [ ] Las partidas con `estado_final = 'ganó'` o `'abandonó'` NO tienen registro en `muerte_partida`
 - [ ] El `id_muerte` en `muerte_partida` existe en la tabla `tipos_muerte`
@@ -50,3 +50,7 @@ FROM partidas;
 ```
 
 ## Evidencia Esperada
+![Test 04 ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%204/Test4.png)
+![Test 04 ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%204/Test4_SELECT%20COUNT.png)
+![Test 04 ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%204/Test4_SELECT%20FROM.png)
+![Test 04 ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%204/Test4_SELECT%20GROUP%20BY.png)
