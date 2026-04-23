@@ -52,4 +52,4 @@ WHERE id_compra = @ultima_compra;
 ```
 
 ## Evidencia Esperada
-
+![Descripción de la imagen](test 7/[foto.png](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%207/Test7.png))
