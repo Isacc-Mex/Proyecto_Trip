@@ -18,7 +18,7 @@
 
 ## Estatus
 
-✅ **APROBADO**
+**APROBADO**
 
 ## Comandos de Prueba
 
@@ -42,4 +42,15 @@ SELECT * FROM vista_resumen_ejecutivo;
 ```
 
 ## Evidencia Esperada
-
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_ARPU.png)
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_DEVOLUCIONES.png)
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_INGRESO%20TOTAL.png)
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_INGRESOS%20MENSUALES.png)
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_INGRESOS%20POR%20DIVISA.png)
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_INGRESOS%20POR%20TIPO.png)
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_METODOS%20DE%20PAGO.png)
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_RETENCION%20DE%20USUARIOS.png)
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_TAZA%20DE%20APROBACION%20.png)
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_TOP%20PRODUCTOS.png)
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_TOP%20SPENDER.png)
+![Test 08 - ](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%208/Test8_VISTA%20RESUMEN%20EJECU.png)
