@@ -53,3 +53,9 @@ WHERE tm.id_muerte IS NULL;
 
 ## Evidencia Esperada
 
+
+![Test 09 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%209/Test9_INSERT%20TRANASCION.png)
+![Test 09 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%209/Test9_INSERT.png)
+![Test 09 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%209/Test9_SELECT%20AS%20FROM.png)
+![Test 09 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%209/Test9_SELECT%20COUNT.png)
+![Test 09 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%209/Test9_SELECT%20FROM.png)
