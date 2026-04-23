@@ -65,3 +65,9 @@ LIMIT 10;
 ```
 
 ## Evidencia Esperada
+
+![Test 06 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%206/Test6.png)
+![Test 06 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%206/Test6_SELECT%20AS.png)
+![Test 06 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%206/Test6_SELECT%20FROM%20GROUP.png)
+![Test 06 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%206/Test6_SELECT%20FROM.png)
+![Test 06 -](https://github.com/Isacc-Mex/Proyecto_Trip/blob/main/SimulationTests/test%206/Test6_SELECT%20WHERE.png)
